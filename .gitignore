@@ -1,0 +1,7 @@
+/.idea
+*.xlsx
+**/__pycache__
+**/build
+**/excelscript.egg-info
+**/config.yml
+log.txt
